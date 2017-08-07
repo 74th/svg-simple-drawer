@@ -1,0 +1,34 @@
+.main {
+	position: relative;
+	margin: 10px;
+	height: 480px;
+}
+.frontBoard {
+	position: absolute;
+	border-color:gray;
+	border-style: solid;
+	border-width: 1px;
+	padding: 0px;
+	height: 480px;
+	width: 640px;
+}
+.svg {
+	position: absolute;
+	padding: 0px;
+	height: 480px;
+	width: 640px;
+}
+.tools {
+	position: absolute;
+	top: 0px;
+	left: 640px;
+	margin: 10px;
+}
+.tools h4{
+	margin-top:5px;
+	margin-bottom:2px;
+}
+.source {
+	height: 100px;
+	width: 640px;
+}
